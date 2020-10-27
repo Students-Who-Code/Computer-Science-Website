@@ -1,0 +1,55 @@
+#nav-bar
+{
+	list-style-type: none;
+	display: block;
+	background-color: #0066FF;
+	height: 2em;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+}
+
+.nav-block
+{
+	float: left;
+}
+.nav-block a
+{
+	display: inline;
+	padding: 0.5em 1em;
+	text-align: center;
+	text-decoration: none;
+	color: #00CCFF;
+	font-family: "Segoe UI", Geneva, sans-serif;
+}
+
+.nav-block a:hover
+{
+	background-color: #0099FF;
+	color: #00FFFF;
+}
+
+#courses:hover .dropdown-content
+{
+	display: block;
+}
+
+#clubs:hover .dropdown-content
+{
+	display: block;	
+}
+
+.dropdown-content
+{
+	display: none;
+	position: absolute;
+	z-index: 1;
+	background-color: #00FFFF;
+	font-family: "Segoe UI", Geneva, sans-serif;
+}
+
+.dropdown-content a
+{
+	display: block;
+	color: #000099;
+}
