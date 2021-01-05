@@ -1,0 +1,86 @@
+body{
+	background: steelblue;
+
+	background-image:url("https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80");
+
+	background-size: cover;
+}
+nav{
+	text-align: center;
+
+	background: rgb(70, 130, 180, .8);
+}
+
+.instructor-info{
+	font-size: 150%;
+
+	font-family:"JetBrains Mono";
+}
+article{
+	float: left;
+
+	background: rgb(135, 206, 250, .8);
+
+	width: 68%;
+
+	height: 600px;
+}
+
+.class-description{
+	font-size: 140%;
+
+	font-family:"JetBrains Mono";
+}
+
+aside{
+	float: right;
+
+	border: 6px none rgb(0,0,0, .1);
+
+	height: 600px;
+
+	width: 30%;
+
+	background: rgb(70, 130, 180, .7);
+}
+.materials-logo{
+	float: right;
+
+	height: 150px;
+
+	width: 35%;
+}
+
+.materials-description{
+	float: left;
+
+	font-size: 115%;
+
+	width: 60%;
+
+	font-family:"JetBrains Mono";
+}
+
+footer{
+	float: left;
+
+	background: rgb(70, 130, 180, .7);
+}
+.page-title{
+	text-align: center;
+	color: white;
+}
+
+.creator-profile{
+	font-family:"JetBrains Mono";
+}
+
+.subtitle{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.main-to-footer{
+	height: 25px;
+
+	opacity: .1;
+}
