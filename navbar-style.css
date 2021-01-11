@@ -2,7 +2,7 @@
 {
 	list-style-type: none;
 	display: block;
-	background-color: #0066FF;
+	background-color: #456387;
 	height: 2em;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -19,14 +19,14 @@
 	padding: 0.5em 1em;
 	text-align: center;
 	text-decoration: none;
-	color: #00CCFF;
+	color: #AEC0D6;
 	font-family: "Segoe UI", Geneva, sans-serif;
 }
 
 .nav-block a:hover
 {
-	background-color: #0099FF;
-	color: #00FFFF;
+	background-color: #5D81AC;
+	color: #FFFFFF;
 }
 
 #courses:hover .dropdown-content
@@ -44,12 +44,12 @@
 	display: none;
 	position: absolute;
 	z-index: 1;
-	background-color: #00FFFF;
+	background-color: #FFFFFF;
 	font-family: "Segoe UI", Geneva, sans-serif;
 }
 
 .dropdown-content a
 {
 	display: block;
-	color: #000099;
+	color: #080A0D;
 }
