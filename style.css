@@ -1,0 +1,35 @@
+/*Coders*/
+/*Lavleen, Neil, Alan, Ryan, Jonas, Evan*/
+
+
+html{
+background: rgb(174,192,214);
+background: linear-gradient(180deg, rgba(174,192,214,1) 33%, rgba(93,129,172,1) 100%);
+}
+
+h1 {
+  font-family: 'Great Vibes', cursive;
+  color: #456387;
+  text-align: center;
+  font-size: 3em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+
+img {
+   border: 7px solid #456387;
+  height: 12em;
+  width: auto;
+  margin: 1em;
+  border-radius: 20px;
+}
+
+p {
+  background-color: #424874;
+  color: white;
+  border-radius: 10px;
+  height: 2.5em;
+  margin: 1em;
+  font-size: 1em;
+}
